@@ -1,1 +1,3 @@
-console.log('two')
+function Two() {
+    return 'two'
+}
